@@ -1,4 +1,4 @@
-# AI-agent-email
+# Weather AI Agent
 
 ## What did i create?
 I tried and created a little automatization in sending a weather info for a morning via Gmail. Of course its not something big, but it is sure more for my career. 
